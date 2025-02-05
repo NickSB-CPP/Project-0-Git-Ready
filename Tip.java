@@ -1,3 +1,4 @@
+//Nicholas
 import java.util.Scanner;
 public class Tip {
 
